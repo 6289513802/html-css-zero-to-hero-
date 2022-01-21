@@ -1,0 +1,40 @@
+<!DOCTYPE.html>
+<html lang = "en">
+<head>
+  <meta charset = "UTF-8">
+  <meta http-equiv = "X-UA-Compatible" content = "IE=edge">
+  <mate name = "Viewport" content = "width-device-width, initial scale =1.0">
+  <title>CSS</title>
+  <link rel ="Stylesheet" href ="Styles/Style.CSS" type = "text/CSS">
+ </head>
+ 
+ <body>
+ 
+ <b>
+   <form class = "HTML">
+  <h1 Style = "background-Color: skyblue;color: red; text-align-center;" "firstheading" Style = "text-align-center">CONTACT FORM </h1>
+  <h1  Style = "background-Color: Yellow; color: red"; id= "myid">USER DETAILS</h1>
+  
+  <p Style = "background-Color: violet; color: lightgreen; text-align-center">Name</p> : <input Style = "background-Color: lightblue; text-align-center" type = "text">
+  
+  <p Style = "background-Color: violet; color: lightgreen; text-align-center">Email</p> : <input Style = "background-Color: lightblue; text-align-center" type = "text">
+  
+  <p Style = "background-Color: violet; color : lightgreen; text-align-center">Address</p> : <textarea Style = "background-Color: lightblue; text-align-center" name = "Address" id = "Address" rows = "8" cols = "30"></textarea>
+  
+  <p Style = "background-Color : violet; color: lightgreen; text-align-center">Phone No.</p> : <input Style = "background-Color: lightblue; text-align-center" type = "text">
+  <p Style = "background-Color: violet; color: lightgreen; text-align-center">Gender</p> : <input  Style = "background-Color: lightblue; text-align-center" type = "radio" name = "gender">Male
+  <input Style = "background-Color: lightblue; text-align-center" type = "radio" name = "gender">Female 
+  <input Style = "background-Color: lightblue; text-align-center" type = "radio">Other 
+  
+  <p Style = "background-Color:violet; color: lightgreen; text-align-center">Message</p> : <textarea Style = "background-Color: lightblue; text-align-center" name ="Message" id = "Message" cols = "30" rows = "8"></textarea><br>
+  
+  <input Style = "background-Color: lightblue; text-align-center" type = "Submit" Value = "Send">
+  
+  <input Style = "background-Color: lightblue; text-align-center" type = "Reset" Value = "Clear">
+ 
+  </form>
+  </b>
+ 
+ </body>
+ 
+ </html>
